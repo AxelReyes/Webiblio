@@ -1,0 +1,37 @@
+$card-color: rgb(0, 0, 0);
+
+$padd:5px;
+$primary-color: rgb(100, 200, 350);
+
+/*
+@mixin gradient-img($color-bg: rgba(0,0,0,1), $height: 400px, $bg: './beach-bg.png') {
+    background-image: linear-gradient(to left, $color-bg, rgba(0,0,0,0)), url($bg);
+    background-size:cover;
+    height: $height - 2*$padd;
+ 
+    .row {
+        height: 350px;
+    }
+
+}
+
+
+.card{
+   // background-color: $card-color;
+    //border-radius: 5px;
+    @include gradient-img;
+    p{
+        background-color: aliceblue;
+        border-radius: 10px;
+        padding: 5px;
+    }
+
+    img{
+        border-style: solid;
+        border-width: 5px;
+        border-color: rgb(36, 36, 36);
+        }
+
+
+}
+*/
